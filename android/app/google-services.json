@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "11786937272",
+    "project_id": "kelimbo-c1253",
+    "storage_bucket": "kelimbo-c1253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11786937272:android:6523dfca96382ce354e54d",
+        "android_client_info": {
+          "package_name": "com.example.kelimbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11786937272-bd23gmm78rch7a7ufr62j67gguaecurc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelimbo",
+            "certificate_hash": "ae4faa1295bb23700b939d4ae40c85c1b03f3177"
+          }
+        },
+        {
+          "client_id": "11786937272-j48hoq18018pqq27plddmd3o1apv9rh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl7S_QJKaFn_gwU1XYu9pIjOY1o0Tl0Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11786937272-j48hoq18018pqq27plddmd3o1apv9rh5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11786937272-jld8utpvc4kdbsejl2uaq4rhc6660f8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kelimboAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11786937272:android:2294ef2c68e4a8f654e54d",
+        "android_client_info": {
+          "package_name": "com.example.kelimbo_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11786937272-j48hoq18018pqq27plddmd3o1apv9rh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl7S_QJKaFn_gwU1XYu9pIjOY1o0Tl0Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11786937272-j48hoq18018pqq27plddmd3o1apv9rh5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11786937272-jld8utpvc4kdbsejl2uaq4rhc6660f8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kelimboAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

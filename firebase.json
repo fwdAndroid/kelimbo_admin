@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "kelimbo-c1253",
+          "appId": "1:11786937272:android:2294ef2c68e4a8f654e54d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "kelimbo-c1253",
+          "configurations": {
+            "android": "1:11786937272:android:2294ef2c68e4a8f654e54d",
+            "web": "1:11786937272:web:1f5de1682a4c2f3a54e54d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
